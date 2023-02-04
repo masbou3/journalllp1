@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../webfonts"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "."
+		}
+	]
+}
